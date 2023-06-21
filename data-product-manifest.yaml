@@ -67,6 +67,11 @@ controlPort:
         - referenceAlias: car_input_port
           expression: ">=1"
           number: 10
+    NullValueCheck:
+      inputPort:
+        - referenceAlias: car_input_port
+          expression: ">="
+          number: 10
           
 outputPort:
   subscriptionChannels:
