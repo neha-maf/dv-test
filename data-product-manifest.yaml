@@ -1,8 +1,8 @@
 ---
 version: 0.1.0
-alias: test_dataproduct_sarath_v100
+alias: test_dataproduct_sarath_v103
 discoveryPort:
-  name: Car prices barcelona - append
+  name: Car prices barcelona - append1
   description: Average car price in barcelona
   domain:
     - customer
