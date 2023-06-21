@@ -2,8 +2,19 @@
 version: 0.1.0
 alias: test_dataproduct_sarath_v104
 discoveryPort:
-  name: Car prices barcelona - append2
- 
+  name: Car prices barcelona - append2 - new
+  shortDescription: This is Maf XConnect Customer Segment manifest
+  longDescription: This is Maf XConnect Customer Segment manifest
+  tags:
+    - MAF Data
+    - Schedule Run
+  domain: ['Finance']
+  function: ['Forecast']
+  regulatoryFields:
+    dataPrivacy: public
+    customerInfo: nonPII
+    dataOrigin: machineGenerated
+    monetaryInfo: nonFinancialData
 
 inputPorts:
   - alias: car_input_port
