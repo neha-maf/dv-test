@@ -1,8 +1,8 @@
 ---
 version: 0.1.0
-alias: test_dataproduct_sarath_v1041
+alias: test_dataproduct_sarath_v104
 discoveryPort:
-  name: Car prices barcelona - append2 - new1
+  name: Car prices barcelona - append2 - new
   shortDescription: This is Maf XConnect Customer Segment manifest
   longDescription: This is Maf XConnect Customer Segment manifest
   tags:
